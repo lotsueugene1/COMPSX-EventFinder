@@ -31,8 +31,8 @@
 }
 
 .sidebar {
-  width: 17.5rem;
-  flex-shrink: 0;
+  width: 100%;
+  margin-bottom: 2.5rem;
 }
 
 .filter-section {
