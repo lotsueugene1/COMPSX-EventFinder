@@ -64,6 +64,11 @@
   flex-basis: 100%;
 }
 
+@media (min-width: 768px) {
+  .events-grid > * {
+    flex-basis: calc(50% - 0.9375rem);
+  }
+}
 
 
 @media (min-width: 1024px) {
