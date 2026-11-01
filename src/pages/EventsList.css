@@ -59,3 +59,7 @@
   width: 100%;
   gap: 1.875rem;
 }
+
+.events-grid > * {
+  flex-basis: 100%;
+}
